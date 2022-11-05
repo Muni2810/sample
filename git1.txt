@@ -1,2 +1,4 @@
 Hello git
 wow welcome
+download and create .git repository
+working area
